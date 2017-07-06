@@ -1,0 +1,179 @@
+{
+    "name":     "cma",
+    "children": [
+                    {
+                        "name":     "ui",
+                        "children": [
+                                        {
+                                            "name":     "web", 
+                                            "children": [
+                                                            {
+                                                                "name":     "capital market contracts",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "ods contracts"
+                                                                                }
+                                                                            ]
+                                                            }
+                                                        ]
+                                        }, 
+                                        {
+                                            "name":     "import", 
+                                            "children": [
+                                                            {
+                                                                "name":     "capital market contracts",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "ods contracts"
+                                                                                }
+                                                                            ]
+                                                            }
+                                                        ]
+                                        }
+                                    ]
+                    },
+                    {
+                        "name":     "wcf",
+                        "children": [
+                                        {
+                                            "name":     "services",
+                                            "children": [
+                                                            {
+                                                                "name":     "business", 
+                                                                "children": [
+                                                                                {
+                                                                                    "name":     "data access",
+                                                                                    "children":[
+                                                                                                    {
+                                                                                                        "name": "capital market contracts", 
+                                                                                                        "children": [
+                                                                                                                        {
+                                                                                                                            "name": "ods contracts"
+                                                                                                                        }
+                                                                                                                    ] 
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                        "name": "ods contracts"
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                        "name": "delivery review contracts"
+                                                                                                    }
+                                                                                               ] 
+                                                                                }, 
+                                                                                {
+                                                                                    "name":     "assignment letters", 
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name":     "capital market contracts",
+                                                                                                        "children": [
+                                                                                                                        {
+                                                                                                                            "name": "ods contracts"
+                                                                                                                        }
+                                                                                                                    ] 
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                        "name":     "data access",
+                                                                                                        "children": [
+                                                                                                                        {
+                                                                                                                            "name": "capital market contracts", 
+                                                                                                                            "children": [
+                                                                                                                                            {
+                                                                                                                                                "name": "ods contracts"
+                                                                                                                                            }
+                                                                                                                                        ] 
+                                                                                                                        }, 
+                                                                                                                        {
+                                                                                                                            "name": "ods contracts"
+                                                                                                                        }, 
+                                                                                                                        {
+                                                                                                                            "name": "delivery review contracts"
+                                                                                                                        }
+                                                                                                                   ] 
+                                                                                                    }
+                                                                                                ]
+                                                                                }, 
+                                                                                {
+                                                                                    "name":     "rsi", 
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "capital market contracts", 
+                                                                                                        "children": [
+                                                                                                                        {
+                                                                                                                            "name": "ods contracts"
+                                                                                                                        }
+                                                                                                                    ] 
+                                                                                                    }
+                                                                                                ]
+                                                                                }, 
+                                                                                {
+                                                                                    "name": "capital market contracts", 
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "ods contracts"
+                                                                                                    }
+                                                                                                ] 
+                                                                                }
+                                                                            ]
+                                                            }, 
+                                                            {
+                                                                "name":     "assignment letters", 
+                                                                "children": [
+                                                                                {
+                                                                                    "name":     "capital market contracts", 
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "ods contracts"
+                                                                                                    }
+                                                                                                ] 
+                                                                                }, 
+                                                                                {
+                                                                                    "name":     "data access",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "capital market contracts", 
+                                                                                                        "children": [
+                                                                                                                        {
+                                                                                                                            "name": "ods contracts"
+                                                                                                                        }
+                                                                                                                    ] 
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                        "name": "ods contracts"
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                        "name": "delivery review contracts"
+                                                                                                    }
+                                                                                               ] 
+                                                                                }
+                                                                            ]
+                                                            }, 
+                                                            {
+                                                                "name":     "rsi", 
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "capital market contracts", 
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "ods contracts"
+                                                                                                    }
+                                                                                                ] 
+                                                                                }
+                                                                            ]
+                                                            }, 
+                                                            {
+                                                                "name":     "capital market contracts", 
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "ods contracts"
+                                                                                }
+                                                                            ] 
+                                                            }, 
+                                                            {
+                                                                "name":     "ods contracts" 
+                                                            }
+                                                        ]
+                                        }
+                                    ]
+                    }
+                ]
+}
